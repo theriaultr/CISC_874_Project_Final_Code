@@ -41,7 +41,7 @@ SET THE PARAMETERS
 '''
 OPTION = "AVG"
 NUM_EPOCHS = 50
-BATCH_SIZE = 64
+BATCH_SIZE = 32
 TYPE_NAME = "With_Ensemble_Output_LR1e3_Batch64" #name of the test being performed
 ENSEMBLE_DR_RATE = 0.3
 
