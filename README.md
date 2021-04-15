@@ -3,6 +3,7 @@
 CISC 874 Final Code
 Author: Rachel Theriault
 Data can be located at: https://www.kaggle.com/paultimothymooney/breast-histopathology-images 
+
 The final models were too large to be stored on GitHub
 
 The goal of the project was to train ResNet50 adn ResNet101 fior IDC versus non-IDC classification and use a variaety of ensemble techniques to enhance sensitivity of IDC detection
